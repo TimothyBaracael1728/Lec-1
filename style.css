@@ -1,0 +1,105 @@
+ 
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+ 
+.box-1{
+   
+   
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 50px;
+    padding: 10px 20px 15px 12px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: 10px solid black
+}
+ 
+ 
+ 
+nav ul{
+    list-style: none;
+    text-align: center;
+}
+ 
+nav ul li{
+ 
+    display: inline;
+}
+ 
+nav ul li a{
+ 
+text-decoration: none;
+padding: 5px 10px;
+transition: background-color 0.3s, color 0.3;
+ 
+color: white;
+}
+ 
+nav u li a hover{
+    background-color: white;
+    color: #555;
+   
+}
+ 
+header {
+    background-color: #333;
+    text-align: center;
+color: white;
+padding: 30px 40px 30px 20px;
+}
+ 
+ 
+nav{background-color: #555;
+padding: 10px 20px 15px 12px;}
+ 
+article, section{
+    background-color: #f9f9f9;
+ 
+}
+ 
+main section{
+    background-color: #f9f9f9;
+    padding: 30px 40px 30px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+ 
+main aside{
+    background-color: #f0f0f0;
+    margin-top: 10px;
+}
+main article{
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+ 
+main aside ul li{
+    margin-top: 10px;
+    margin-left: 40px;
+   
+}
+ 
+footer p{background-color: #333;
+    text-align: center;
+color: white;
+padding: 10px 20px 15px 12px; }
+ 
+main{
+    padding: 20px;
+}
+ 
+main section p{
+    padding-top: 30px
+}
+ 
+main article p {
+    padding-top: 30px
+}
+ 
